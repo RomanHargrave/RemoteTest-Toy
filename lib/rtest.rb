@@ -1,3 +1,4 @@
+#!/usr/env ruby
 
 require 'net/ssh'
 require 'net/scp'
